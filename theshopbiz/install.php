@@ -1,0 +1,1 @@
+BOL_LanguageService::getInstance()->addPrefix('theshopbiz', 'The Shop Biz');

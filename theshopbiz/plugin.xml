@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>The Shop Biz</name>
+	<key>theshopbiz</key>
+	<description>"TheShopBiz" page with the ability to create oline store or request one to be created.</description>
+    <author>Nandini Goel</author>
+    <authorEmail>nandinigoel.india@gmail.com</authorEmail>
+	<authorUrl>http://www.theshop.biz</authorUrl>
+	<developerKey>75940de42ada1da0e0ab70a948a30537</developerKey>
+    <build>1</build>
+    <copyright>(C) TheShop.biz Reserved</copyright>
+	<license>The BSD License</license>
+    <licenseUrl>http://www.opensource.org/licenses/bsd-license.php</licenseUrl>
+</plugin>
